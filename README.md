@@ -1,0 +1,2 @@
+# tanulas
+tesztelem a gitet
